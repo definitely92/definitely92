@@ -57,11 +57,5 @@ Here are some ideas to get you started:
 	<br>
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=definitely92&layout=compact">
 <img src="https://github-readme-stats.vercel.app/api?username=definitely92&show_icons=true">
-
-![Suhyeon's GitHub Contributor stats](https://github-contributor-stats.vercel.app/api?username=definitely92)
-
-<br>
-<p>🏆 Baekjoon solved rank 🏆</p>
-	
-[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=kycasdzxc)](https://solved.ac/kycasdzxc)
 </div>
+![Suhyeon's GitHub Contributor stats](https://github-contributor-stats.vercel.app/api?username=definitely92)
