@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 
 
 <div align=center>
-	<img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=200&section=header&text=Yermi%20Github!&fontSize=90" />	
+	<img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=200&section=header&text=Suhyeon%20Github!&fontSize=90" />	
 </div>
 <div align=center>
 	<h3>📚 Tech Stack 📚</h3>
@@ -58,7 +58,7 @@ Here are some ideas to get you started:
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=definitely92&layout=compact">
 <img src="https://github-readme-stats.vercel.app/api?username=definitely92&show_icons=true">
 
-![Suhyun's GitHub Contributor stats](https://github-contributor-stats.vercel.app/api?username=definitely92)
+![Suhyeon's GitHub Contributor stats](https://github-contributor-stats.vercel.app/api?username=definitely92)
 
 <br>
 <p>🏆 Baekjoon solved rank 🏆</p>
