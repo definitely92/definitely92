@@ -61,4 +61,3 @@ Here are some ideas to get you started:
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=definitely92&layout=compact">
 <img src="https://github-readme-stats.vercel.app/api?username=definitely92&show_icons=true">
 </div>
-![Suhyeon's GitHub Contributor stats](https://github-contributor-stats.vercel.app/api?username=definitely92)
