@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 
 
 <div align=center>
-	<img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=200&section=header&text=Suhyeon%20Github!&fontSize=90" />	
+	<img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=200&section=header&text=Su-hyeon%20Github!&fontSize=90" />	
 </div>
 <div align=center>
 	<h3>📚 Tech Stack 📚</h3>
